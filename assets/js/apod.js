@@ -1,6 +1,5 @@
 //01-25-2022 video fringe case example
 //bug: random date won't populate the first time if you load app and immediately click Take me anywhere. Issue happens when using display none and class List hidden methods. Date info only populates correctly with the display none method.
-//for gif: home -> enter 10-02-2010 -> click learn -> take me anywhere 2 more times
 
 //Generate random date
 function randomDate(date1, date2){
