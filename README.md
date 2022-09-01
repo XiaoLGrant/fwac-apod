@@ -1,4 +1,4 @@
-# [Oakland Hills Astronomy Club: Picture of the Day](https://federal-way-astronomy-club.netlify.app/)
+# [Oakland Hills Astronomy Club: Picture of the Day](https://oakland-hills-astronomy-club.netlify.app/)
 This site is for the Oakland Hills Astronomy Club. It has a Picture of the Day feature where users can get an astronomy-themed picture or video by searching for a specific date or clicking a button that will randomize a date for them.
 ![APOD feature in action](https://github.com/XiaoLGrant/fwac-apod/blob/main/images/fwAPOD.gif)
 
